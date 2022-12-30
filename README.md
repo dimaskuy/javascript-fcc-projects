@@ -6,4 +6,6 @@ The project includes:
   <li>Caesars Cipher</li>
   </li>Telephone Number Validator</li>
   <li>Cash Register</li>
-</ol
+</ol>
+
+"Complete these 5 JavaScript projects to earn the JavaScript Algorithms and Data Structures certification."
